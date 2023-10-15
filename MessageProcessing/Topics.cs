@@ -1,0 +1,4 @@
+﻿enum Topics
+{
+    ServerStatistics,
+}
